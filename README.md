@@ -6,7 +6,7 @@ Jetpack Compose ist ein modernes Toolkit zur Entwicklung von nativen Benutzerobe
 
 Die offizielle Dokumentation von Android Developers bietet eine umfassende Einführung in Jetpack Compose, einschließlich Tutorials, Beispielen und Ressourcen für Entwickler ¹²³.
 
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Jetpack Compose UI App Development Toolkit - Android Developers. https://developer.android.com/jetpack/compose.
 (2) Jetpack Compose Tutorial - Android Developers. https://developer.android.com/jetpack/compose/tutorial.
 (3) Get started with Jetpack Compose | Android Developers. https://developer.android.com/jetpack/compose/documentation.
@@ -23,7 +23,7 @@ Im Vergleich zu XML-Layouts bietet Jetpack Compose eine Reihe von Vorteilen:
 
 Weitere Informationen zu Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) XML vs. Jetpack Compose: Which is Better | Towards Dev. https://towardsdev.com/xml-vs-jetpack-compose-which-is-better-for-android-app-development-2c7391f5a10a.
 (2) Jetpack Compose vs XML UIs: Which is better? - BigKnol. https://bigknol.com/app-dev/jetpack-compose-vs-xml-uis-which-is-better/.
 (3) Exploring the Difference Between Jetpack Compose and XML Layout in .... https://medium.com/@humzakhalid94/exploring-the-difference-between-jetpack-compose-and-xml-layout-in-android-development-e4355a2ea35f.
@@ -37,7 +37,7 @@ Die Idee hinter Jetpack Compose ist es, eine deklarative Programmierweise zu ver
 
 Weitere Informationen zu Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Compose Multiplatform UI Framework | JetBrains. https://www.jetbrains.com/lp/compose-multiplatform/.
 (2) 70+ Jetpack Compose Projects For Beginners And Experts - TheInsaneApp.com. https://www.theinsaneapp.com/2021/08/jetpack-compose-sample-examples-projects-and-android-apps.html.
 (3) Get started with Jetpack Compose | Android Developers. https://developer.android.com/jetpack/compose/documentation.
@@ -49,7 +49,7 @@ Die Entwicklung von Jetpack Compose begann im Jahr 2019 als Experiment, um eine 
 
 Weitere Informationen zu Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Jetpack Compose UI App Development Toolkit - Android Developers. https://developer.android.com/jetpack/compose.
 (2) Jetpack Compose is now 1.0: announcing Android’s modern toolkit for .... https://android-developers.googleblog.com/2021/07/jetpack-compose-announcement.html.
 (3) JetPack Compose Introduction. https://www.jetpackcompose.net/jetpack-compose-introduction.
@@ -89,7 +89,7 @@ Die folgende Tabelle zeigt die Versionshistorie von Jetpack Compose und die wich
 
 Weitere Informationen zu Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Compose | Jetpack | Android Developers. https://developer.android.com/jetpack/androidx/releases/compose.
 (2) Recent Release Notes | Android Developers. https://developer.android.com/jetpack/androidx/versions/all-channel.
 (3) AndroidX releases | Jetpack | Android Developers. https://developer.android.com/jetpack/androidx/versions.
@@ -104,9 +104,7 @@ Die offizielle Dokumentation von Android Developers bietet eine umfassende Einf�
 
 Wenn Sie mit der Verwendung von Jetpack Compose in Android Studio beginnen möchten, empfehle ich Ihnen, das offizielle Jetpack Compose-Tutorial von Android Developers zu lesen ¹. In diesem Tutorial lernen Sie, wie Sie eine einfache Benutzeroberfläche mit deklarativen Funktionen erstellen, ohne XML-Layouts zu bearbeiten oder den Layout-Editor zu verwenden ¹.
 
-Ich hoffe, das hilft Ihnen weiter! Wenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen.
-
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Android Compose Tutorial | Jetpack Compose | Android Developers. https://developer.android.com/jetpack/compose/tutorial.
 (2) Get started with Jetpack Compose | Android Developers. https://developer.android.com/jetpack/compose/documentation.
 (3) Layouts in Compose | Jetpack Compose | Android Developers. https://developer.android.com/jetpack/compose/layouts.
@@ -160,9 +158,7 @@ In diesem Beispiel wird eine einfache App erstellt, die eine Textansicht mit der
 
 Weitere Informationen zur Verwendung von Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-Ich hoffe, das hilft Ihnen weiter! Wenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen.
-
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Jetpack Compose Einführung | Android Studio Tutorial Deutsch. https://www.youtube.com/watch?v=HLGvwXpv4X0.
 (2) Jetpack Compose Tutorials - composables.com. https://www.composables.com/tutorials.
 (3) Jetpack Compose – Aufbau einer Architektur in einem Multi-Module-Projekt. https://www.adesso-mobile.de/android-app-programmierung/jetpack-compose/.
@@ -214,9 +210,7 @@ In diesem Beispiel wird eine Preview-Funktion für eine App erstellt, die eine T
 
 Weitere Informationen zur Verwendung der Preview-Funktion in Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹.
 
-Ich hoffe, das hilft Ihnen weiter! Wenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen.
-
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Preview your UI with Composable previews | Jetpack Compose | Android .... https://developer.android.com/jetpack/compose/tooling/previews.
 (2) JetPack Compose Preview. https://www.jetpackcompose.net/jetpack-compose-preview.
 (3) Jetpack Compose Basics - Preview and it’s parameters. https://www.goodrequest.com/blog/jetpack-compose-basics-preview-and-its-parameters.
@@ -228,9 +222,7 @@ Jetpack Compose ist ein relativ neues Toolkit zur Entwicklung von nativen Benutz
 
 Wenn Sie eine Karriere als Android-Entwickler anstreben, kann das Erlernen von Jetpack Compose eine wertvolle Fähigkeit sein, die Ihnen helfen kann, sich von anderen Bewerbern abzuheben ³. Es gibt viele Ressourcen online, die Ihnen helfen können, Jetpack Compose zu erlernen, einschließlich der offiziellen Dokumentation von Android Developers ¹²³.
 
-Ich hoffe, das hilft Ihnen weiter! Wenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen.
-
-Quelle: Unterhaltung mit Bing, 15.11.2023
+Quelle: 
 (1) Jetpack Compose or XML for a job in 2022 - Medium. https://medium.com/@daniel.atitienei/jetpack-compose-vs-xml-for-a-job-in-2022-55575772b5ec.
 (2) Jetpack Compose Jobs - 19. Juni 2023 - Indeed. https://de.indeed.com/q-jetpack-compose-jobs.html.
 (3) JetpackCompose.app's Job Board - Pallet. https://jetpackcompose.pallet.com/.
