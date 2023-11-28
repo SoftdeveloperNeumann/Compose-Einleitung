@@ -24,9 +24,7 @@ class MainActivity : ComponentActivity() {
 
                 Weitere Informationen zur Verwendung des Surface-Containers in Jetpack Compose finden Sie in der offiziellen Dokumentation von Android Developers ¹²³.
 
-                Ich hoffe, das hilft Ihnen weiter! Wenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen.
-
-                Quelle: Unterhaltung mit Bing, 27.11.2023
+                Quelle:
                 (1) When should I use Android Jetpack Compose's Surface composable?. https://stackoverflow.com/questions/65918835/when-should-i-use-android-jetpack-composes-surface-composable.
                 (2) How to Add Surface with Rounded Corners in Android Jetpack Compose .... https://codingwithrashid.com/surface-with-rounded-corners-in-android-jetpack-compose/.
                 (3) Difference Between Surface and Box in Android Jetpack Compose. https://codingwithrashid.com/difference-between-surface-and-box-in-android-jetpack-compose/.
